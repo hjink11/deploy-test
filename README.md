@@ -5,6 +5,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=typescript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Socket.io-%23010101?logo=socketdotio&logoColor=white">
+  <br/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Sequelize-%2352B0E7?logo=sequelize&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Bcrypt-%230087FF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-.env-%23ECD53F?logo=dotenv&logoColor=white">
+
+
 
 
 
