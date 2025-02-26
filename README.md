@@ -9,11 +9,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/-Sequelize-%2352B0E7?logo=sequelize&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Bcrypt-%230087FF">
   <img alt="Static Badge" src="https://img.shields.io/badge/-.env-%23ECD53F?logo=dotenv&logoColor=white">
-
-
-
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/-Sass-%23CC6699?logo=sass&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=white">
 
 </div>
 <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
